@@ -1,7 +1,7 @@
 """
 For internal use only.
 """
-from __future__ import unicode_literals
+#from __future__ import unicode_literals
 
 import jedi
 import re

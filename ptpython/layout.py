@@ -1,4 +1,4 @@
-from __future__ import unicode_literals
+#from __future__ import unicode_literals
 
 from prompt_toolkit.filters import Condition, IsDone, HasCompletions, RendererHeightIsKnown
 from prompt_toolkit.key_binding.vi_state import InputMode

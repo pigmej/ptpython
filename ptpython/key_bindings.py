@@ -1,4 +1,4 @@
-from __future__ import unicode_literals
+#from __future__ import unicode_literals
 
 from prompt_toolkit.filters import HasSelection, IsMultiline
 from prompt_toolkit.key_binding.bindings.utils import focus_next_buffer, focus_previous_buffer

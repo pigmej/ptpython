@@ -10,7 +10,7 @@ Utility for creating a Python repl.
 # Warning: don't import `print_function` from __future__, otherwise we will
 #          also get the print_function inside `eval` on Python 2.7.
 
-from __future__ import unicode_literals
+#from __future__ import unicode_literals
 
 from pygments import highlight
 from pygments.formatters.terminal256 import Terminal256Formatter

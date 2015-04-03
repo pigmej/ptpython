@@ -9,7 +9,7 @@ This can be used for creation of Python REPLs.
     python_interface = PythonCommandLineInterface()
     python_interface.cli.read_input()
 """
-from __future__ import unicode_literals
+#from __future__ import unicode_literals
 
 from prompt_toolkit import AbortAction
 from prompt_toolkit import CommandLineInterface
